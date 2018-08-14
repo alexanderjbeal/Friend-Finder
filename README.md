@@ -1,6 +1,6 @@
 # Friend Finder
 
-This is a app to help match users based on their responses to survey questions. 
+This is a web app to help match users with a "friend" based on responses to survey questions. 
 
 ## Getting Started
 
