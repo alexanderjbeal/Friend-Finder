@@ -3,6 +3,7 @@ $color-primary-light: #d56f6f;
 $color-primary-dark: #b42828;
 
 $color-grey-dark: #777;
+$color-grey-light: #dddddd;
 $color-white: #fff;
 $color-black: #000;
 
@@ -244,7 +245,7 @@ body {
         border-radius: 20rem;
         font-size: 2rem;
         padding: 0 0 0 2rem;
-        border: .5rem solid $color-primary-light;
+        border: .5rem solid $color-grey-light;
         margin: 0 0 2rem 0;
         text-align: center;
     }
