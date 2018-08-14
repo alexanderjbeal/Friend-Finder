@@ -1,0 +1,31 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass app/public/assets/sass/main.scss app/public/assets/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderjbeal/friend-finder.git"
+  },
+  "keywords": [],
+  "author": "Alexander Beal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanderjbeal/friend-finder/issues"
+  },
+  "homepage": "https://github.com/alexanderjbeal/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "10.6.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
