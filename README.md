@@ -14,7 +14,7 @@ This is a app to help match users based on their responses to survey questions.
 
 *Example: Friend Match*
 
-<img src="app/public/assets/images/demo-01.gif">
+<img src="app/public/assets/images/demo-02.gif">
 
 ## Author
 
